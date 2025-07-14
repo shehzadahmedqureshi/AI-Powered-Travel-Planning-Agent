@@ -88,7 +88,7 @@ User Input → [LangChain AgentExecutor + Groq LLM]
 ### 2. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/shehzadahmedqureshi/AI-Powered-Travel-Planning-Agent)
 cd Travel Agent/backend
 ```
 
